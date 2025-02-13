@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766151350096",
+    "project_id": "ecomlogin-2d707",
+    "storage_bucket": "ecomlogin-2d707.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766151350096:android:640062b60b515c43ae3e55",
+        "android_client_info": {
+          "package_name": "com.example.e_commercee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4eREk8E6QHjAlP73iA_KMxs800lHnYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
